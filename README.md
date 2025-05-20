@@ -66,7 +66,7 @@ docker run -p 8000:8000 movie-genre-api
 ```
 ### Author
 Tayyab ur Rehman
-Machine Learning Engineer | Backend Enthusiast
+
 
 
 
