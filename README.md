@@ -42,25 +42,30 @@ cd movie-genre-api
 
 ```
 ### Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ### Train the model
+```bash
 python model/train.py
-
+```
 ### Run the api
+```bash
 uvicorn app.main:app --reload
-
+```
 ![image](https://github.com/user-attachments/assets/b7422ce7-3d69-471f-bc85-6778bae0a20f)
 
-###Running tests
+### Running tests
+```bash
 pytest.py
-
+```
 ### Docker Support
+```bash
 docker build -t movie-genre-api .
 docker run -p 8000:8000 movie-genre-api
-
+```
 ### Author
-Built by Tayyab ur Rehman
+Tayyab ur Rehman
 Machine Learning Engineer | Backend Enthusiast
 
 
