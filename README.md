@@ -11,7 +11,7 @@ An ML-powered REST API that predicts a movie's genre based on its plot summary. 
 - ⚙️ Built with FastAPI + scikit-learn
 - 🔁 Includes a model training pipeline.
 - 🧪 Unit-tested with pytest.
-- 📦 Docker-ready + CI/CD via GitHub Actions
+- 📦 Docker-ready + CI/CD via GitHub Actions.
 
 ---
 
