@@ -1,5 +1,5 @@
 # 🎬 Movie Genre Classifier API
-
+![CI](https://github.com/TayyabUrRehman862/movie-genre-api/actions/workflows/ci.yml/badge.svg)
 An ML-powered REST API that predicts a movie's genre based on its plot summary. Built with **FastAPI**, **scikit-learn**, and **CI/CD using GitHub Actions**.
 
 ---
