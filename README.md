@@ -9,7 +9,7 @@ An ML-powered REST API that predicts a movie's genre based on its plot summary. 
 - ✅ Predicts genre (Action, Comedy, Drama, etc.) from a movie description
 - 🧠 Trained on the TMDB 5000 Movie Dataset
 - ⚙️ Built with FastAPI + scikit-learn
-- 🔁 Includes a model training pipeline
+- 🔁 Includes a model training pipeline.
 - 🧪 Unit-tested with pytest
 - 📦 Docker-ready + CI/CD via GitHub Actions
 
