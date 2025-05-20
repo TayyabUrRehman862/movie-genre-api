@@ -1,2 +1,3 @@
-# movie-genre-api
-ML-powered movie genre prediction API with FastAPI + scikit-learn
+# 🎬 Movie Genre Classifier API
+
+Starter code for a FastAPI ML microservice.
